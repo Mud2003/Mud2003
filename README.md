@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muditha Madusith.
 - 👀 I’m interested in Web Developing & New Technologys.
-- 🌱 I’m currently learning Blockchain Development.
+- 🌱 I’m currently learning Python PL.
 - 📫 How to reach me kabmmadusith2003@gmail.com
 
 
